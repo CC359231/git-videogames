@@ -30,9 +30,10 @@ A platformer is a genre where the player controls a character jumping and climbi
 
 ## Puzzle
 
-<!-- Agregar descripción del género y link a Wikipedia -->
+Es un legendario videojuego de puzles en el que piezas geométricas compuestas por cuatro bloques (llamadas tetrominós) caen desde la parte superior de la pantalla y deben ser rotadas y acomodadas por el jugador para formar líneas horizontales completas.
+[Wikipedia](https://es.wikipedia.org/wiki/Tetris)
 
-- Tetris
+- [Tetris](./puzzle/tetris.md)
 
 ## Sandbox
 
